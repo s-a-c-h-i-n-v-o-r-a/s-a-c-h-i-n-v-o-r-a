@@ -2,6 +2,7 @@
 - 🌱 I was a programmer in my past life - RISC programmming, Networking protocols, UNIX programming, etc.
 - 👀 I’m interested in bi-directional marketplaces, Machine learning models and blockchain based apps
 - 🌱 I’m currently learning python, rholang, solidity, simplicity
+- 👀 Also interested in R, Scala
 - 💞️ I’m looking to collaborate on ETL and integration use-cases
 - 📫 How to reach me ...ping me here :)
 
